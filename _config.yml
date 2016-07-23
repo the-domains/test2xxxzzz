@@ -1,0 +1,28 @@
+name: Test2xxxzzz
+favicon: null
+layout_spectrum: 0.925063427304849
+typography_spectrum: 0.7510740293655545
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.012608322314918041
+  lightness: 0.4524286624509841
+  saturation: 0.19188365968875587
+  rhythmicContrast: 0.7077573095448315
+purpose: []
